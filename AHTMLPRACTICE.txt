@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<title>College of Nursing VMGO</title>
+<body>
+
+
+<h1 style="color:red;"><b>Vision</b></h1>
+
+<p> The Aklan State University-College of Nursing envisions to be the center of development in nursing education in Western
+Visayas Region by the year 2040 </p>
+
+<h2 style="color:red;"><b>Mission</b></h2>
+
+<p> Care chuchchu </p>
+
+
+<h2 style="color:red;"><b>Goal</b></h2>
+
+<p> promote critical, ethical, innovative and transformational nursing education</p>
+
+
+
+
+</body>
+</html>
